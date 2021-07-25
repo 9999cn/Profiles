@@ -1,8 +1,29 @@
-# > bilibili
-DOMAIN-SUFFIX,biliapi.net,StreamingSE
-DOMAIN-SUFFIX,bilibili.com,StreamingSE
-DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
+# > WeTV
+USER-AGENT,WeTV*,StreamingSE
+DOMAIN-SUFFIX,wetv.vip,StreamingSE
+DOMAIN-SUFFIX,wetvinfo.com,StreamingSE
+IP-CIDR,150.109.28.51/32,StreamingSE
+
+# > MangoTV
+DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
+DOMAIN,mobileso.bz.mgtv.com,StreamingSE
+
+# > iQIYI
+DOMAIN-SUFFIX,iq.com,StreamingSE
+DOMAIN,intl.iqiyi.com,StreamingSE
+DOMAIN,intl-rcd.iqiyi.com,StreamingSE
+DOMAIN,intl-subscription.iqiyi.com,StreamingSE
+IP-CIDR,103.5.34.153/32,StreamingSE
+IP-CIDR,104.109.129.153/32,StreamingSE
+IP-CIDR,110.238.107.47/32,StreamingSE
+IP-CIDR,118.26.32.178/32,StreamingSE
+IP-CIDR,203.74.95.131/32,StreamingSE
+IP-CIDR,203.74.95.139/32,StreamingSE
+IP-CIDR,203.211.4.169/32,StreamingSE
+IP-CIDR,203.211.4.193/32,StreamingSE
+IP-CIDR,210.201.32.8/32,StreamingSE
+IP-CIDR,210.201.32.11/32,StreamingSE
+
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com,StreamingSE
 IP-CIDR,116.211.202.206/32,StreamingSE
