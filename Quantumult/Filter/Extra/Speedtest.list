@@ -3,5 +3,5 @@ USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 DOMAIN-SUFFIX,speedtest.net,Speedtest
 # > Fast
-USER-AGENT,Fast*
-DOMAIN-SUFFIX,fast.com
+USER-AGENT,Fast*,Fast
+DOMAIN-SUFFIX,fast.com,Fast
