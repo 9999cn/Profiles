@@ -569,6 +569,11 @@ DOMAIN,crl3.digicert.com,PROXY
 DOMAIN,crl4.digicert.com,PROXY
 DOMAIN,ocsp.digicert.com,PROXY
 # > Others
+DOMAIN-SUFFIX,mojim.com,PROXY
+DOMAIN-SUFFIX,av01.tv,PROXY
+DOMAIN-SUFFIX,playav.tv,PROXY
+DOMAIN-SUFFIX,fs1.app,PROXY
+DOMAIN-SUFFIX,jable.tv,PROXY
 DOMAIN-SUFFIX,pincong.rocks,PROXY
 DOMAIN-SUFFIX,cloudcone.com.cn,PROXY
 DOMAIN-SUFFIX,inkbunny.net,PROXY
