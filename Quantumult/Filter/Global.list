@@ -569,6 +569,7 @@ DOMAIN,crl3.digicert.com,PROXY
 DOMAIN,crl4.digicert.com,PROXY
 DOMAIN,ocsp.digicert.com,PROXY
 # > Others
+DOMAIN-SUFFIX,limbopro.com,PROXY
 DOMAIN-SUFFIX,idreamx.com,PROXY
 DOMAIN-SUFFIX,mojim.com,PROXY
 DOMAIN-SUFFIX,av01.tv,PROXY
