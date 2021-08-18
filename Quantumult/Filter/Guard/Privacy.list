@@ -56,3 +56,6 @@ DOMAIN,btrace.qq.com,REJECT
 DOMAIN,btrace.video.qq.com,REJECT
 DOMAIN,mtrace.qq.com,REJECT
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+# > Baidu
+DOMAIN-KEYWORD,boxer.baidu.com,REJECT
+DOMAIN-KEYWORD,miao.baidu.com,REJECT
