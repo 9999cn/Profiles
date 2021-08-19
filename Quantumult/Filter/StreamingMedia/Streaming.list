@@ -72,12 +72,6 @@ DOMAIN-KEYWORD,avoddashs,Streaming
 # > Apple TV
 DOMAIN,linear.tv.apple.com,Streaming
 DOMAIN,play-edge.itunes.apple.com,Streaming
-# > Bahamut
-USER-AGENT,Anime*,Streaming
-DOMAIN-SUFFIX,bahamut.com.tw,Streaming
-DOMAIN-SUFFIX,gamer.com.tw,Streaming
-DOMAIN,gamer-cds.cdn.hinet.net,Streaming
-DOMAIN,gamer2-cds.cdn.hinet.net,Streaming
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*,Streaming
 DOMAIN-SUFFIX,bbc.co.uk,Streaming
