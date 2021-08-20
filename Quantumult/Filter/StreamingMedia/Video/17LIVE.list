@@ -5,4 +5,7 @@ DOMAIN,shield.17app.co,17LIVE
 DOMAIN,cdn.17app.co,17LIVE
 DOMAIN,api-dsa.17app.co,17LIVE
 DOMAIN,app.akamaized.net,17LIVE
+DOMAIN,matomo.17app.dev,17LIVE
+DOMAIN,api-ambassador.17app.co,17LIVE
+DOMAIN,17media-realtime.ably.io,17LIVE
 DOMAIN,assets-17app.akamaized.net,17LIVE
