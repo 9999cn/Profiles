@@ -1,5 +1,7 @@
 # >17LIVE
-DOMAIN-SUFFIX,app-measurement.com,17LIVE
-DOMAIN-SUFFIX,17app.co,17LIVE
-DOMAIN-SUFFIX,akamaized.net,17LIVE
 USER-AGENT,17LIVE*,17LIVE
+DOMAIN-SUFFIX,17.live,17LIVE
+DOMAIN,cdn.17app.co,17LIVE
+DOMAIN,api-dsa.17app.co,17LIVE
+DOMAIN,app.akamaized.net,17LIVE
+DOMAIN,assets-17app.akamaized.net,17LIVE
