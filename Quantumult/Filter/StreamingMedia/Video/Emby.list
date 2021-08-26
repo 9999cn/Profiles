@@ -29,6 +29,9 @@ HOST, emby.ssltd.xyz, Emby
 # Godetia专属服2（3DM）
 HOST, emby.3DMmp.com, Emby
 
+# Otaku
+HOST, emby.otakudrive.life, Emby
+
 #Emby公益服
 #Pornemby https://t.me/PornembyClub
 DOMAIN-SUFFIX, pornemby.club, Emby
