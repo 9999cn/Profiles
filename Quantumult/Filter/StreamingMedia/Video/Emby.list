@@ -1,0 +1,59 @@
+# NAME: Emby
+# 关键字匹配
+HOST-KEYWORD, emby, Emby
+
+# AGA公益服(中国电信可直连观看)
+HOST, emby.plusmedia.site, Emby
+
+# CF公益服(仅限挂代理观看)
+HOST, emby-cf.plusmedia.site, Emby
+
+# 备用服
+HOST, emby.xeton.dev, Emby
+HOST, jellyfin.xeton.dev, Emby
+HOST, movie.xeton.dev, Emby
+HOST, servers.xeton.dev, Emby
+
+# Nexitally/AmyTelecom专属服（仅限美国专用节点观看）
+HOST, emby.nexitally.com, Emby
+
+# Exflux专属服
+HOST, line.emby.men, Emby
+
+# Skicat专属服
+HOST, https://skicat.tv, Emby
+
+# Godetia专属服1（猫熊）
+HOST, emby.ssltd.xyz, Emby
+
+# Godetia专属服2（3DM）
+HOST, emby.3DMmp.com, Emby
+
+#Emby公益服
+#Pornemby https://t.me/PornembyClub
+DOMAIN-SUFFIX, pornemby.club, Emby
+
+#普拉斯影业 https://t.me/Plus_Movie_Best
+DOMAIN-SUFFIX, plusmedia.site, Emby
+
+#终点站 https://t.me/EmbyPublic
+DOMAIN-SUFFIX, emby.wtf, Emby
+
+#Odyssey+ https://t.me/odysseyplus
+DOMAIN-SUFFIX, odysseyplus.site, Emby
+
+#卷毛鼠 https://t.me/CurlyMouse
+DOMAIN-SUFFIX, jmsooo.com, Emby
+
+#OtakuDrive https://t.me/otakudrive
+DOMAIN, emby.neko.edu.rs, Emby
+DOMAIN, emby.ok.edu.hk, Emby
+
+#部分机场服
+#Imm（普拉斯）
+DOMAIN, emby.immtel.com, Emby
+#彩虹猫（普拉斯）
+DOMAIN, emby.nyancat.net, Emby
+DOMAIN, servers.xeton.dev, Emby
+#猫熊影业
+DOMAIN, embyclub.com, Emby
