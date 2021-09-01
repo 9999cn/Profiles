@@ -1,12 +1,8 @@
 # >17LIVE
 USER-AGENT,17LIVE*,17LIVE
-DOMAIN-SUFFIX,17.live,17LIVE
-DOMAIN-SUFFIX,17app.co,17LIVE
-DOMAIN,shield.17app.co,17LIVE
-DOMAIN,cdn.17app.co,17LIVE
-DOMAIN,api-dsa.17app.co,17LIVE
-DOMAIN,app.akamaized.net,17LIVE
-DOMAIN,matomo.17app.dev,17LIVE
-DOMAIN,api-ambassador.17app.co,17LIVE
-DOMAIN,17media-realtime.ably.io,17LIVE
-DOMAIN,assets-17app.akamaized.net,17LIVE
+HOST-SUFFIX,17.live,17LIVE
+HOST-SUFFIX,17app.co,17LIVE
+HOST-SUFFIX,17app.dev,17LIVE
+HOST,app.akamaized.net,17LIVE
+HOST,17media-realtime.ably.io,17LIVE
+HOST,assets-17app.akamaized.net,17LIVE
